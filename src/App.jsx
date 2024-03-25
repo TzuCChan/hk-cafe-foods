@@ -19,6 +19,13 @@ function App() {
   function Diner() {
     return <div class="container"></div>;
   }
+
+  return (
+    <div className="App">
+      <Food />
+      <Diner />
+    </div>
+  );
 }
 
 export default App;

@@ -20,10 +20,17 @@ function App() {
     return <div class="container"></div>;
   }
 
+  function Menu() {
+    const closeNav = () => {
+      setWidth('0px');
+    };
+  }
+
   return (
     <div className="App">
       <Food />
       <Diner />
+      <Menu />
     </div>
   );
 }

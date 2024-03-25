@@ -10,3 +10,6 @@ body {
   background-repeat: no-repeat;
   font-family: 'Henny Penny', cursive;
 }
+.App {
+  height: 100vh;
+}

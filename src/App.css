@@ -1,1 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+body {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(https://www.discoverhongkong.com/content/dam/dhk/intl/explore/attractions/best-ways-to-marvel-at-iconic-victoria-harbour/best-ways-to-marvel-at-iconic-victoria-harbour-1920x1080.jpg);
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  font-family: 'Henny Penny', cursive;
+}

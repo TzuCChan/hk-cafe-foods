@@ -27,7 +27,9 @@ function App() {
 
     return (
       <div id="mySidenav" class="sidenav" style={{ width: width }}>
-        
+        <a href="javascript:void(0)" class="closebtn" onClick={closeNav}>
+          &times;
+        </a>
       </div>);
   }
 

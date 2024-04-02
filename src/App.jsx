@@ -40,6 +40,9 @@ function App() {
         <a class="tea" href="https://www.openrice.com/en/hongkong/r-australia-dairy-company-jordan-hong-kong-style-dessert-r90" onClick={Diner}>
           Australia Dairy Company
         </a>
+        <a class="tea" href="https://www.openrice.com/en/hongkong/r-kam-wah-cafe-prince-edward-hong-kong-style-r11293" onClick={Diner}>
+          Kam Wah Café & Bakery
+        </a>
       </div>);
   }
 

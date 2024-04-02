@@ -47,7 +47,7 @@ function App() {
           Lan Fong Yuen
         </a>
         <a class="tea" href="http://www.tsuiwah.com/en/business/restaurant/company_introduction/" onClick={Diner}>
-          Tsui Wah
+          Tsui Wah Restaurant Group
         </a>
         <a class="tea" href="https://nganlung.com" onClick={Diner}>
           Ngan Lung Restaurant Limited

@@ -43,6 +43,9 @@ function App() {
         <a class="tea" href="https://www.openrice.com/en/hongkong/r-kam-wah-cafe-prince-edward-hong-kong-style-r11293" onClick={Diner}>
           Kam Wah Café & Bakery
         </a>
+        <a class="tea" href="https://www.hklanfongyuen.com/en/" onClick={Diner}>
+          Lan Fong Yuen
+        </a>
       </div>);
   }
 

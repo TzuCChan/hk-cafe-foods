@@ -37,6 +37,9 @@ function App() {
         >
           Hung Wan Cafe
         </a>
+        <a class="tea" href="https://www.openrice.com/en/hongkong/r-australia-dairy-company-jordan-hong-kong-style-dessert-r90" onClick={Diner}>
+          Australia Dairy Company
+        </a>
       </div>);
   }
 

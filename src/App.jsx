@@ -49,6 +49,9 @@ function App() {
         <a class="tea" href="http://www.tsuiwah.com/en/business/restaurant/company_introduction/" onClick={Diner}>
           Tsui Wah
         </a>
+        <a class="tea" href="https://nganlung.com" onClick={Diner}>
+          Ngan Lung Restaurant Limited
+        </a>
       </div>);
   }
 

@@ -30,6 +30,13 @@ function App() {
         <a href="javascript:void(0)" class="closebtn" onClick={closeNav}>
           &times;
         </a>
+        <a
+          class="tea"
+          href="https://www.openrice.com/en/hongkong/r-hung-wan-cafe-mong-kok-hong-kong-style-r1391"
+          onClick={Diner}
+        >
+          Hung Wan Cafe
+        </a>
       </div>);
   }
 

@@ -15,7 +15,7 @@
 }
 
 .sidenav {
-  background-color: #111;
+  background-color: black;
   height: 100%;
   position: fixed;
   z-index: 1;
@@ -24,4 +24,13 @@
   overflow-x: hidden;
   padding-top: 60px;
   transition: 0.5s;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: whitesmoke;
+  display: block;
+  transition: 0.3s;
 }

@@ -52,6 +52,9 @@ function App() {
         <a class="tea" href="https://nganlung.com" onClick={Diner}>
           Ngan Lung Restaurant Limited
         </a>
+        <a class="tea" href="https://www.dachan.com/brand/a80YPFdGudhXdXnC" onClick={Diner}>
+          Honolulu Coffee Shop
+        </a>
       </div>);
   }
 

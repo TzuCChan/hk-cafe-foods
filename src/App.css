@@ -8,7 +8,7 @@ body {
   background-image: url(https://www.discoverhongkong.com/content/dam/dhk/intl/explore/attractions/best-ways-to-marvel-at-iconic-victoria-harbour/best-ways-to-marvel-at-iconic-victoria-harbour-1920x1080.jpg);
   background-size: cover !important;
   background-repeat: no-repeat;
-  font-family: 'Henny Penny', cursive;
+  font-family:'Times New Roman', Times, serif
 }
 .App {
   height: 100vh;

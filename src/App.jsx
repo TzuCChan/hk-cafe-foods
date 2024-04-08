@@ -36,24 +36,25 @@ function App() {
           onClick={Diner}
         >
           Hung Wan Cafe
+          <a>鴻運冰廳餅店</a>
         </a>
         <a class="tea" href="https://www.openrice.com/en/hongkong/r-australia-dairy-company-jordan-hong-kong-style-dessert-r90" onClick={Diner}>
-          Australia Dairy Company
+          Australia Dairy Company <a>澳洲牛奶公司</a>
         </a>
         <a class="tea" href="https://www.openrice.com/en/hongkong/r-kam-wah-cafe-prince-edward-hong-kong-style-r11293" onClick={Diner}>
-          Kam Wah Café & Bakery
+          Kam Wah Café <a>金華冰廳</a>
         </a>
         <a class="tea" href="https://www.hklanfongyuen.com/en/" onClick={Diner}>
-          Lan Fong Yuen
+          Lan Fong Yuen <a>蘭芳園</a>
         </a>
         <a class="tea" href="http://www.tsuiwah.com/en/business/restaurant/company_introduction/" onClick={Diner}>
-          Tsui Wah Restaurant Group
+          Tsui Wah Restaurant Group <a>翠華餐廳</a>
         </a>
         <a class="tea" href="https://nganlung.com" onClick={Diner}>
-          Ngan Lung Restaurant Limited
+          Ngan Lung Restaurant Limited <a>銀龍茶餐廳</a>
         </a>
         <a class="tea" href="https://www.dachan.com/brand/a80YPFdGudhXdXnC" onClick={Diner}>
-          Honolulu Coffee Shop
+          Honolulu Coffee Shop <a>檀島咖啡餅店</a>
         </a>
       </div>);
   }
